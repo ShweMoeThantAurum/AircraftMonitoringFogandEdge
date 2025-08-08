@@ -10,7 +10,7 @@ This repository contains the source code, documentation, and supporting files fo
 - **`AzureIoT/`**: Includes `AircraftMonitoringPoC.py` and `.env` files for Azure IoT Hub integration.
 - **`Research Paper/`**: Stores the chosen [research paper](https://github.com/ShweMoeThantAurum/AircraftMonitoringFogandEdge/tree/main/Research%20Paper).
 - **`iFogSim/Results/`**: Holds `Results.xlsx` for simulation metrics and `Comparison Visualization of Metrics of Edge-only and Cloud-only Modes.png` for visual analysis.
-- ** [Architecture Diagrams/](https://github.com/ShweMoeThantAurum/AircraftMonitoringFogandEdge/tree/main/Architecture%20Diagrams)**: Contains diagrams representing the architecture, application loop, and topology.
+- **[Architecture Diagrams/](https://github.com/ShweMoeThantAurum/AircraftMonitoringFogandEdge/tree/main/Architecture%20Diagrams)**: Contains diagrams representing the architecture, application loop, and topology.
 
 ## Setup Instructions
 
