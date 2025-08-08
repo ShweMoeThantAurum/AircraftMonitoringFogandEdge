@@ -6,10 +6,10 @@ This repository contains the source code, documentation, and supporting files fo
 
 ## Repository Structure
 
-- **`iFogSim/`**: Contains the `AircraftMonitoringPoC.java` script for iFogSim simulation.
-- **`AzureIoT/`**: Includes `AircraftMonitoringPoC.py` and `.env` files for Azure IoT Hub integration.
-- **`Research Paper/`**: Stores the chosen [research paper](https://github.com/ShweMoeThantAurum/AircraftMonitoringFogandEdge/tree/main/Research%20Paper).
-- **`iFogSim/Results/`**: Holds `Results.xlsx` for simulation metrics and `Comparison Visualization of Metrics of Edge-only and Cloud-only Modes.png` for visual analysis.
+- **[iFogSim/](https://github.com/ShweMoeThantAurum/AircraftMonitoringFogandEdge/tree/main/iFogSim)**: Contains the `AircraftMonitoringPoC.java` script for iFogSim simulation.
+- **[AzureIoT/](https://github.com/ShweMoeThantAurum/AircraftMonitoringFogandEdge/tree/main/AzureIoT)**: Includes `AircraftMonitoringPoC.py` and `.env` files for Azure IoT Hub integration.
+- **[Research Paper/](https://github.com/ShweMoeThantAurum/AircraftMonitoringFogandEdge/tree/main/Research%20Paper)**: Stores the chosen [research paper](https://github.com/ShweMoeThantAurum/AircraftMonitoringFogandEdge/blob/main/Research%20Paper/Implementation%20of%20an%20edge%E2%80%91fog%E2%80%91cloud%20computing%20IoT%20architecture%20in%20aircraft%20components.pdf).
+- **[iFogSim/Results/](https://github.com/ShweMoeThantAurum/AircraftMonitoringFogandEdge/tree/main/iFogSim/Results)**: Holds `Results.xlsx` for simulation metrics and `Comparison Visualization of Metrics of Edge-only and Cloud-only Modes.png` for visual analysis.
 - **[Architecture Diagrams/](https://github.com/ShweMoeThantAurum/AircraftMonitoringFogandEdge/tree/main/Architecture%20Diagrams)**: Contains diagrams representing the architecture, application loop, and topology.
 
 ## Setup Instructions
